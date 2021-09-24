@@ -20,6 +20,6 @@
 ![image](https://drive.google.com/uc?export=view&id=1XlJkwWyEkhZH3fFhMbkyLMDs6cKqFGXq)  
 
 ### 5.Reference
-[Python中使用多个分隔符分隔字符串re.split](https://blog.csdn.net/programmer_at/article/details/77409507 "link")
-[Python：爬蟲處理流程及網頁解析](https://kknews.cc/tech/3jjpj8g.html "link")
-[Day23]Beautiful Soup網頁解析！](https://ithelp.ithome.com.tw/articles/10196817 "link")
+[Python中使用多个分隔符分隔字符串re.split](https://blog.csdn.net/programmer_at/article/details/77409507 "link")  
+[Python：爬蟲處理流程及網頁解析](https://kknews.cc/tech/3jjpj8g.html "link")  
+[Day23Beautiful Soup網頁解析！](https://ithelp.ithome.com.tw/articles/10196817 "link")  
